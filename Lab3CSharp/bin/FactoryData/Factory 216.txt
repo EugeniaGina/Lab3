@@ -1,0 +1,15 @@
+General info factory and workshops
+Name Factory 216, Amount of workers 67, Amount of masters 50
+Info about workshops
+Number of workshop 1, current amount of workers working righgt now 16
+Current amount of masters 11 Revenue from one detail 6000, Cost of one detail 3000
+max capacity of people 500 max capacity of workers 350, max capacity of masters 150
+Number of workshop 2, current amount of workers working righgt now 30
+Current amount of masters 19 Revenue from one detail 6000, Cost of one detail 3000
+max capacity of people 500 max capacity of workers 350, max capacity of masters 150
+Number of workshop 3, current amount of workers working righgt now 21
+Current amount of masters 20 Revenue from one detail 6000, Cost of one detail 3000
+max capacity of people 500 max capacity of workers 350, max capacity of masters 150
+Number of workshop 4, current amount of workers working righgt now 0
+Current amount of masters 0 Revenue from one detail 6000, Cost of one detail 3000
+max capacity of people 500 max capacity of workers 350, max capacity of masters 150

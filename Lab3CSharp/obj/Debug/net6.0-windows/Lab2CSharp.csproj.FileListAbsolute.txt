@@ -1,0 +1,17 @@
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\bin\Debug\net6.0-windows\Lab2CSharp.exe
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\bin\Debug\net6.0-windows\Lab2CSharp.deps.json
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\bin\Debug\net6.0-windows\Lab2CSharp.runtimeconfig.json
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\bin\Debug\net6.0-windows\Lab2CSharp.dll
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\bin\Debug\net6.0-windows\Lab2CSharp.pdb
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.csproj.AssemblyReference.cache
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.Form1.resources
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.csproj.GenerateResource.cache
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.AssemblyInfoInputs.cache
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.AssemblyInfo.cs
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.csproj.CoreCompileInputs.cache
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.dll
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\refint\Lab2CSharp.dll
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.pdb
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\Lab2CSharp.genruntimeconfig.cache
+C:\Users\UNICEF\source\repos\Lab2CSharp\Lab2CSharp\obj\Debug\net6.0-windows\ref\Lab2CSharp.dll
